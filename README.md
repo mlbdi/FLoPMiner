@@ -7,3 +7,9 @@ Perceiving resident movements from ubiquitous sensor devices can aid health and 
 Keywords
 
 Periodic pattern, Activity recognition, Sequential data mining, Smart homes
+
+
+Cited as :
+
+Iqbal, M., Kurniatama, F., Irawan, M. I., Mukhlash, I., & Sanjoyo, B. A. (2024). Consecutive attractive local regions–bidirectional long short-term memory for trip destination prediction. Journal of Intelligent Transportation Systems, 1-16.
+
